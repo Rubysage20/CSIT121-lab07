@@ -39,12 +39,7 @@ tr:nth-child(even){
 td[colspan = "2"] {
   background-color: #FFB6C1;
 }
-
 caption,header{text-align:left; background-color:#FFFFFF;border: 3px inset #000000; 
-}
-form { background-color: #FFFFFF;
-         font-family: Georgia;
-         width: 350px; padding: 10px; border: 3px inset #000000; justify-content:center;
 }
 hr{border-bottom: 2px dashed #237B7B;
 }
